@@ -31,7 +31,7 @@ export default class Navv extends React.Component {
                 <NavLink href="#portfolio">Portfolio</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://docs.google.com/document/d/1ScazYttDBMtnecU5v8ZjRUAjxqvBWYieA0WGGh519k4/edit?usp=sharing">Resume</NavLink>
+                <NavLink href="https://docs.google.com/document/d/1tHYXlsg8u3GT44AA1DDfUgenIFWN4GJjqy7q0Lm_6Xs/edit?usp=sharing">Resume</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
