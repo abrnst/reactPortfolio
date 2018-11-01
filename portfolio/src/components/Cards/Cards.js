@@ -31,7 +31,7 @@ const Cards = (props) => {
                         <CardBody>
                         <img src={require('../../assets/train.jpeg')} id='portPic' />
                         <CardTitle className='cardTitle'>Train Times</CardTitle>
-                        <Button href="https://aqueous-beach-17383.herokuapp.com/" target="_blank">Visit</Button>
+                        <Button href="https://abrnst.github.io/traintimes/" target="_blank">Visit</Button>
                         </CardBody>
                     </Card>
                 </Col>
